@@ -32,7 +32,7 @@ Tip 2: Antes de empezar a escribir código, te recomendamos que consumas los ser
 
 Tip 3: Como recomendación, antes de empezar a desarrollar, es preferible leer cada uno de los pasos a seguir y realizarlos de forma manual, esto con el fin de conocer el flujo a detalle y saber que se necesita para la automatización de cada paso.
 
-####Pasos para seguir en la automatización:
+#### Pasos para seguir en la automatización:
 
 1. Crear un proyecto utilizando el framework de karate y bajo el gestor de dependencias Maven.
 2. Crear un repositorio en GitHub.

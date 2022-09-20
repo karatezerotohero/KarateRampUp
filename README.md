@@ -35,8 +35,7 @@ Tip 3: Como recomendación, antes de empezar a desarrollar, es preferible leer c
 #### Pasos para seguir en la automatización:
 
 1. Crear un proyecto utilizando el framework de karate y bajo el gestor de dependencias Maven.
-2. Crear un repositorio en GitHub.
-3. Crear una rama para trabajar el reto.
-4. Cuando se realice un Pull Request asociar el siguiente correo como aprobador karatezerotohero@gmail.com.
-5. Crear un Feature llamado reto_karate, en el cual se escribirá el escenario a automatizar.
-6. Al finalizar el reto subir los cambios a la rama creada y realizar el pull request a la rama Master del repositorio y esperar aprobación.
+2. Crear una rama a partari del repositorio
+3. Cuando se realice un Pull Request asociar el siguiente correo como aprobador karatezerotohero@gmail.com.
+4. Crear un Feature llamado reto_karate, en el cual se escribirá el escenario a automatizar.
+5. Al finalizar el reto subir los cambios a la rama creada y realizar el pull request a la rama Master del repositorio y esperar aprobación.

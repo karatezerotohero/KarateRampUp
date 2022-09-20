@@ -38,4 +38,4 @@ Tip 3: Como recomendación, antes de empezar a desarrollar, es preferible leer c
 2. Crear una rama a partari del repositorio
 3. Cuando se realice un Pull Request asociar el siguiente correo como aprobador karatezerotohero@gmail.com.
 4. Crear un Feature llamado reto_karate, en el cual se escribirá el escenario a automatizar.
-5. Al finalizar el reto subir los cambios a la rama creada y realizar el pull request a la rama Master del repositorio y esperar aprobación. 
+5. Al finalizar el reto subir los cambios a la rama creada y realizar el pull request a la rama Master del repositorio y esperar aprobación.
